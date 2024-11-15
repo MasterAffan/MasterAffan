@@ -19,7 +19,6 @@
 <li><a target="_blank" href="https://www.linkedin.com/posts/m-a-affan_nasa-spaceapps-vishwakarmauniversity-activity-7250814227416834049-5IDk?utm_source=share&utm_medium=member_desktop">NASA Space Apps 2024 | 4th position</a></li>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/m-a-affan/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MasterAffan/MasterAffan/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MasterAffan/MasterAffan/output/github-snake.svg" />
