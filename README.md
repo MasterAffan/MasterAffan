@@ -1,7 +1,6 @@
 
 
 <h1>✨ MasterAffan | Full Stack Developer & Innovator ✨</h1>
-<p>💡 Transforming Ideas into Intelligent Apps.</p>
 
 # 💫 About Me:
 👨‍💻 Undergraduate in Computer Science Engineering<br>💡 Passionate about Application Development & Web Development<br>🤖 Building AI Models and turning them into functional apps!<br>🌟 Always learning, coding, and creating something awesome!
