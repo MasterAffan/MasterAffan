@@ -2,6 +2,13 @@
 
 <h1>✨ MasterAffan | Full Stack Developer & Innovator ✨</h1>
 <p>💡 Transforming Ideas into Intelligent Apps.</p>
+
+# 💫 About Me:
+👨‍💻 Undergraduate in Computer Science Engineering<br>💡 Passionate about Application Development & Web Development<br>🤖 Building AI Models and turning them into functional apps!<br>🌟 Always learning, coding, and creating something awesome!
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
