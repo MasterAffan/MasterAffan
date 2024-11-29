@@ -1,5 +1,3 @@
-
-
 <h1>✨ MasterAffan | Full Stack Developer & Innovator ✨</h1>
 
 # 💫 About Me:
@@ -32,5 +30,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MasterAffan/MasterAffan/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/MasterAffan/MasterAffan/output/github-snake.svg" />
 </picture>
-
-
