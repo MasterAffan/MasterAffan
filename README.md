@@ -6,9 +6,9 @@
 
 <h3>About Me</h3>
 <p>
-  Undergraduate in Computer Science Engineering<br>
-  Building and scaling functional applications<br>
-  Always learning, coding, and creating something awesome!
+ • Undergraduate in Computer Science Engineering<br>
+ • Building and scaling functional applications<br>
+ • Always learning, coding, and creating something awesome!
 </p>
 
 <br clear="all" />
