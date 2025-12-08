@@ -3,8 +3,8 @@
 # 💫 About Me:
 👨‍💻 Undergraduate in Computer Science Engineering<br>💡 Passionate about Application Development & Web Development<br>🤖 Building AI Models and turning them into functional apps!<br>🌟 Always learning, coding, and creating something awesome!
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=masteraffan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masteraffan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masteraffan)](https://github.com/masteraffan/github-readme-stats)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
