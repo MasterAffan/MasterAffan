@@ -3,6 +3,8 @@
 # 💫 About Me:
 👨‍💻 Undergraduate in Computer Science Engineering<br>💡 Passionate about Application Development & Web Development<br>🤖 Building AI Models and turning them into functional apps!<br>🌟 Always learning, coding, and creating something awesome!
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MasterAffan&theme=radical)
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=MasterAffan&show_icons=true&theme=radical)](https://github.com/MasterAffan/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterAffan&layout=compact)](https://github.com/MasterAffan/github-readme-stats)
 ### ✍️ Random Dev Quote
