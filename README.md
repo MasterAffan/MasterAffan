@@ -3,8 +3,8 @@
 # 💫 About Me:
 👨‍💻 Undergraduate in Computer Science Engineering<br>💡 Passionate about Application Development & Web Development<br>🤖 Building AI Models and turning them into functional apps!<br>🌟 Always learning, coding, and creating something awesome!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masteraffan)](https://github.com/masteraffan/github-readme-stats)
-
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=MasterAffan&show_icons=true&theme=radical)](https://github.com/MasterAffan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterAffan&layout=compact)](https://github.com/MasterAffan/github-readme-stats)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -22,9 +22,6 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<h2>✒️ Recent Posts</h2>
-<ul>
-<li><a target="_blank" href="https://www.linkedin.com/posts/m-a-affan_nasa-spaceapps-vishwakarmauniversity-activity-7250814227416834049-5IDk?utm_source=share&utm_medium=member_desktop">NASA Space Apps 2024 | 4th position</a></li>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/m-a-affan/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 <picture>
